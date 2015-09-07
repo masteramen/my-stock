@@ -2,7 +2,8 @@
 
 #### 声明
 
-           本小软件由 [www.jfox.info](http://www.jfox.info/) 网站所有者开发所有，仅提供用于学习使用。任何人没有征得同意,请勿用于商业使用，否则后果自负。
+           本小软件由 [www.jfox.info](http://www.jfox.info/) 网站所有者开发所有，仅提供用于学习使用。
+		   任何人没有征得同意,请勿用于商业使用，否则后果自负。
 
 #### 使用条件
 
@@ -24,6 +25,7 @@
 
 #### 软件截图：
 
+		   (http://www.jfox.info/my-stock/ss.JPG)
           ![](http://www.jfox.info/my-stock/ss.JPG)
 
 #### 下载：
